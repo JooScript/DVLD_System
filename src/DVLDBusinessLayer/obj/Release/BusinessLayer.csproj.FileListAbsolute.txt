@@ -1,0 +1,18 @@
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\obj\Release\Business.EA331CBA.Up2Date
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\Yousef\Documents\Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.pdb
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Release\Business.EA331CBA.Up2Date
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\Yousef\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Release\BusinessLayer.pdb

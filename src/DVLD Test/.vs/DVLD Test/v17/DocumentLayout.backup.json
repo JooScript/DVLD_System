@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yousef\\Dropbox\\Programming\\Programming Advices\\Course #19 - Full Real Project\\Course #19 - Material\\My Solution\\DVLD\\DVLD Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABA508-2D7F-4311-8F14-9C4E8F31311D}|..\\DVLDDataAccessLayer\\DataAccessLayer.csproj|c:\\users\\yousef\\dropbox\\programming\\programming advices\\course #19 - full real project\\course #19 - material\\my solution\\dvld\\dvlddataaccesslayer\\peopledataacccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleDataAcccess.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Dropbox\\Programming\\Programming Advices\\Course #19 - Full Real Project\\Course #19 - Material\\My Solution\\DVLD\\DVLDDataAccessLayer\\PeopleDataAcccess.cs",
+              "RelativeDocumentMoniker": "..\\DVLDDataAccessLayer\\PeopleDataAcccess.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Dropbox\\Programming\\Programming Advices\\Course #19 - Full Real Project\\Course #19 - Material\\My Solution\\DVLD\\DVLDDataAccessLayer\\PeopleDataAcccess.cs",
+              "RelativeToolTip": "..\\DVLDDataAccessLayer\\PeopleDataAcccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:01:28.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
