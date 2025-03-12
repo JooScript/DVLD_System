@@ -43,3 +43,12 @@ C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusines
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDBusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDBusinessLayer\obj\Debug\BusinessLayer.pdb

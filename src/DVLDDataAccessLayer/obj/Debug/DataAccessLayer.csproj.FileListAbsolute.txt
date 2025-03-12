@@ -28,3 +28,9 @@ C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDDataAcc
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\youse\Dropbox\Programming\My Projects\Current Projects\DVLD\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Yousef\Documents\GitHub\DVLD_System\src\DVLDDataAccessLayer\obj\Debug\DataAccessLayer.pdb
