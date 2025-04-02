@@ -27,12 +27,11 @@ Before installing the DVLD System, ensure you have the following:
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/Yousef-Refat/DVLD_System.git
-   cd dvld-system
+   cd Dvld-system
    ```
 2. **Set Up the Database**
    - Open **SQL Server Management Studio (SSMS)**.
    - Restore `DVLD_backup.bak`.
-   - Configure the connection string in `appsettings.json` (depending on the project setup).
 
 3. **Open and Build the Project**
    - Open the solution (`.sln` file) in **Visual Studio**.
