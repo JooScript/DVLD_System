@@ -26,13 +26,13 @@ Before installing the DVLD System, ensure you have the following:
 ### Steps to Install
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repository/dvld-system.git
+   git clone https://github.com/Yousef-Refat/DVLD_System.git
    cd dvld-system
    ```
 2. **Set Up the Database**
    - Open **SQL Server Management Studio (SSMS)**.
-   - Run the `dvld_database.sql` script located in the `Database` folder.
-   - Configure the connection string in `App.config` or `appsettings.json` (depending on the project setup).
+   - Restore `DVLD_backup.bak`.
+   - Configure the connection string in `appsettings.json` (depending on the project setup).
 
 3. **Open and Build the Project**
    - Open the solution (`.sln` file) in **Visual Studio**.
@@ -46,7 +46,6 @@ Before installing the DVLD System, ensure you have the following:
 ## Usage
 - **Login**: Use an admin or officer account to log in.
 - **License Management**: Issue, renew, and manage licenses from the dashboard.
-- **Search & Reports**: Retrieve detailed license records and generate reports.
 
 ## Folder Structure
 ```
@@ -68,9 +67,6 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the **MIT License**.
-
-## Contact
-For any inquiries, contact **your-email@example.com** or open an issue in the repository.
 
 ---
 Thank you for using the **DVLD System**!
