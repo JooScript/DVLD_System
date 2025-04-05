@@ -26,7 +26,7 @@ Before installing the DVLD System, ensure you have the following:
 ### Steps to Install
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Yousef-Refat/DVLD_System.git
+   git clone https://github.com/JooScript/DVLD_System.git
    cd Dvld-system
    ```
 2. **Set Up the Database**
