@@ -3,14 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.IO;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using BusinessLayer;
-using System.Collections.Specialized;
 
 namespace DVLDWindowsFormsApp
 {
@@ -24,6 +19,7 @@ namespace DVLDWindowsFormsApp
         {
             InitializeComponent();
         }
+
         public string FirstName
         {
             get
@@ -31,6 +27,7 @@ namespace DVLDWindowsFormsApp
                 return txtFirstName.Text;
             }
         }
+
         public string SecondName
         {
             get
@@ -38,6 +35,7 @@ namespace DVLDWindowsFormsApp
                 return txtSecondName.Text;
             }
         }
+
         public string ThirdName
         {
             get
@@ -45,6 +43,7 @@ namespace DVLDWindowsFormsApp
                 return txtThirdName.Text;
             }
         }
+
         public string LastName
         {
             get
@@ -52,6 +51,15 @@ namespace DVLDWindowsFormsApp
                 return txtLastName.Text;
             }
         }
+
+        public string FullName
+        {
+            get
+            {
+                return $"{txtFirstName.Text} {txtSecondName.Text} {txtThirdName.Text} {txtLastName.Text}";
+            }
+        }
+
         public string NationalNo
         {
             get
@@ -59,6 +67,7 @@ namespace DVLDWindowsFormsApp
                 return txtNationalNo.Text;
             }
         }
+
         public string Email
         {
             get
@@ -66,6 +75,7 @@ namespace DVLDWindowsFormsApp
                 return txtEmail.Text;
             }
         }
+
         public string Address
         {
             get
@@ -73,6 +83,7 @@ namespace DVLDWindowsFormsApp
                 return txtAddress.Text;
             }
         }
+
         public string Phone
         {
             get
@@ -80,6 +91,7 @@ namespace DVLDWindowsFormsApp
                 return txtPhone.Text;
             }
         }
+
         public string Gendor
         {
             get
@@ -94,6 +106,7 @@ namespace DVLDWindowsFormsApp
                 }
             }
         }
+
         public string PersonImage
         {
             get
@@ -101,6 +114,7 @@ namespace DVLDWindowsFormsApp
                 return pbPersonImage.ImageLocation;
             }
         }
+
         public string Country
         {
             get
@@ -108,6 +122,7 @@ namespace DVLDWindowsFormsApp
                 return cbCountry.Text;
             }
         }
+
         public DateTime DateOfBirth
         {
             get
@@ -373,7 +388,7 @@ namespace DVLDWindowsFormsApp
             }
         }
 
-        private void llRRemove_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void llRemove_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             if (pbPersonImage.Tag.ToString() == "0")
             {

@@ -332,7 +332,7 @@
             this.llRRemove.TabIndex = 26;
             this.llRRemove.TabStop = true;
             this.llRRemove.Text = "Remove";
-            this.llRRemove.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llRRemove_LinkClicked);
+            this.llRRemove.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llRemove_LinkClicked);
             // 
             // ctrlPersonCard
             // 

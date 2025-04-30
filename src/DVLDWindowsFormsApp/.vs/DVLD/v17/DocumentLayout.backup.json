@@ -1,12 +1,90 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|c:\\users\\yousef\\documents\\github\\dvld_system\\src\\dvldwindowsformsapp\\ctrlpersoncard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|solutionrelative:ctrlpersoncard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|c:\\users\\yousef\\documents\\github\\dvld_system\\src\\dvldwindowsformsapp\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|solutionrelative:ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|solutionrelative:frmaddeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A4C6265-F018-45E6-B18C-4E713895E3E9}|DVLDWindowsFormsApp.csproj|solutionrelative:ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctrlPersonCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.Designer.cs",
+              "RelativeDocumentMoniker": "ctrlPersonCard.Designer.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.Designer.cs",
+              "RelativeToolTip": "ctrlPersonCard.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAgwE4BAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:36:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddEditPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\frmAddEditPerson.cs",
+              "RelativeDocumentMoniker": "frmAddEditPerson.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\frmAddEditPerson.cs",
+              "RelativeToolTip": "frmAddEditPerson.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwFAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:24:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.cs",
+              "RelativeToolTip": "ctrlPersonCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:23:07.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Documents\\GitHub\\DVLD_System\\src\\DVLDWindowsFormsApp\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:47:40.684Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
